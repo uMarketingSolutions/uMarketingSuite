@@ -10,7 +10,6 @@ body:
     description: ""
   validations:
     required: true
-
 - type: input
   id: "umbracoversion"
   attributes:
@@ -18,7 +17,6 @@ body:
     description: "Use the help icon in the Umbraco backoffice to find the version you're using"
   validations:
     required: true
-
 - type: textarea
   id: "summary"
   attributes:
@@ -30,4 +28,3 @@ body:
       Try to state the actual problem, and not just what you think the solution might be.
   validations:
     required: true
-
