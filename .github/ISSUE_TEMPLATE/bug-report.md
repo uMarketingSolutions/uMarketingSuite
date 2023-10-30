@@ -1,5 +1,5 @@
 ---
-name: "\U0001FAB2Bug report"
+name: "\U0001FAB2 Bug report"
 about: File a bug report, if you've discovered a problem in uMarketingSuite
 title: ''
 labels: ''
