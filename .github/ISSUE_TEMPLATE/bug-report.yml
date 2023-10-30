@@ -1,8 +1,5 @@
----
 name: "🐛 Bug report"
 description: File a bug report, if you've discovered a problem in uMarketingSuite
-labels: ""
-assignees: ""
 body:
 - type: input
   id: "umsVersion"
