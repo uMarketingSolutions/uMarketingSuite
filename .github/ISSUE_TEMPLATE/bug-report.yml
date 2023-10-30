@@ -5,7 +5,7 @@ body:
 - type: input
   id: "umsversion"
   attributes:
-    label: "Which uMarketingSuite version are you using? (Please write the *exact* version, example: 10.1.0)"
+    label: "Which uMarketingSuite version are you using? (Please write the *exact* version, example: 1.24.3)"
   validations:
     required: true
 - type: input
@@ -15,6 +15,11 @@ body:
     description: "Use the help icon in the Umbraco backoffice to find the version you're using"
   validations:
     required: true
+- type: input
+  id: "addonversions"
+  attributes:
+    label: "List any uMarketingSuite Addons and their Versions"
+    description: "Such as uMarketingSuite.UmbracoForms, uMarketingSuite.Headless"
 - type: textarea
   id: "summary"
   attributes:
