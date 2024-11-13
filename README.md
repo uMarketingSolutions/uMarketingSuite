@@ -7,6 +7,6 @@ Upgrading from uMarketingSuite to Umbraco Engage
 
 The End of Life (EOL) date for uMarketingSuite 1.x is February 24 2025.
 For uMarketingSuite 2.x the EOL date is November 7 2025.
-You can find the uMarketingSuite to Umbraco Engage upgrade documentation [here]([https://docs](https://docs.umbraco.com/umbraco-engage/upgrading/migrate-from-umarketingsuite))
+You can find the uMarketingSuite to Umbraco Engage upgrade documentation [here](https://docs.umbraco.com/umbraco-engage/upgrading/migrate-from-umarketingsuite).
  
 This page will not be updated anymore.
